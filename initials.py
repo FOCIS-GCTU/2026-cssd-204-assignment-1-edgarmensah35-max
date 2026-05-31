@@ -3,8 +3,8 @@
 # Assignment Number: 1
 #
 # Name: Edgar Kwaku Mensah
-# STUDENT ID: <2425402260>
-# Email: <2425402260@live.gctu.edu.gh>
+# STUDENT ID: 2425402260
+# Email: 2425402260@live.gctu.edu.gh
 # Grader: Augustus Buckman
 #
 # On my honor, Edgar Kwaku Mensah, this programming assignment is my own work
